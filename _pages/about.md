@@ -8,6 +8,23 @@ redirect_from:
   - /about.html
 ---
 
+I am currently a PhD student in Computer Science at Stanford University's School of Engineering. I work in Caroline Trippel's lab researching applying formal methods to hardware and software security.
+Before I entered Stanford CS's PhD program in 2020, I attended Middlebury College in Middlebury, VT, where I double-majored in Computer Science in Mathematics, graduated Salutatorian and Summa Cum Laude, and received the Timothy T. Huang Award in Computer Science.
+
+I have broad interests in computer security and software/hardware analysis, including:
+- Detecting and mitigating Spectre vulnerabilities in code
+- Using symbolic execution, fuzzing, and dynamic binary analysis to detect bugs in programs
+- Reverse engineering and bug hunting
+
+Some projects I am currently working on:
+- (Statically detecting vulnerabilities in code using an axiomatic framework)[/publications/2021-paper-lcms]
+- Automatically lifting timing information from RTL
+
+My origin story as a computer scientist and programmer begins with me learning to code in Z80 assembly on a TI-83+ graphing calculator in high school.
+As a result, I have a (false) sense of nostalgia for the ``simple days'' of computing despite missing them by decades.
+I'll always have an appreciation for retro computing.
+
+<!--- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
 A data-driven personal website
@@ -48,3 +65,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+--->
