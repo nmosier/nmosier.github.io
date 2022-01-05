@@ -11,30 +11,48 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Computer Science, Stanford University, 2025 (expected)
+* B.A. in Computer Science and Mathematics, Middlebury College, 2020
 
-Work experience
+Honors & Awards
+=====
+* Graduated __Salutatorian__ and __Summa Cum Laude__ (Middlebury College)
+* Won __Phi Beta Kappa__ prize (Middlebury College) 
+* Phi Beta Kappa junior inductee (Middlebury College)
+* Timothy T. Huang Award in Computer Science (Middlebury College)
+
+Professional Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Winter 2021 - present: Ph.D Research Assistant, Stanford University
+  * Advisor: Caroline Trippel
+  * Researching hardware security and formal methods
+  * Project: Leakage Containment Models
+	* Implemented tool that statically detects Spectre v1 and v4 leakage in C programs
+	* Analyzed the crypto library libsodium for Spectre vulnerabilities
+	* Developed a general, theoretical framework (LCM) that underpins leakage detection tool
+	* Approach outperforms existing tools for Spectre vulnerability analysis
+  
+* Spring 2021: Ph.D Research Assistant, Stanford University
+  * Worked with Philip Levis as part of Stanford's rotational program
+  * Researched virtualization of distributed energy resources
+  
+* Fall 2020: Ph.D Research Assistant, Stanford University
+  * Worked with Dawson Engler as part of Stanford's rotational program
+  * Researched memory checkers in embedded systems
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2017, Fall 2017, Summer 2018: Computer Vision Research Assistant, Middlebury College
+  * Supervisor: Daniel Scharstein
+  
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* __Programming Languages__: C, C++, x86 assembly, Python, bash, Verilog, Java, Swift
+* __Programming Environments__: macOS, Linux, FreeBSD
+* __Tools__:
+  * _Reverse engineering and debugging_: IDA Pro, gdb
+  * _Building & source control_: make, CMake, git
+  * _Virtualization_: Docker, VirtualBox
+  * _Formal methods_: Z3, SMT-LIB
 
 Publications
 ======
