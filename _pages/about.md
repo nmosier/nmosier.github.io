@@ -17,7 +17,7 @@ I have broad interests in computer security and software/hardware analysis, incl
 - Reverse engineering and bug hunting
 
 Some projects I am currently working on:
-- (Statically detecting vulnerabilities in code using an axiomatic framework)[/publications/2021-paper-lcms]
+- [Statically detecting vulnerabilities in code using an axiomatic framework](/publications/2021-paper-lcms)
 - Automatically lifting timing information from RTL
 
 My origin story as a computer scientist and programmer begins with me learning to code in Z80 assembly on a TI-83+ graphing calculator in high school.
