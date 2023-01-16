@@ -7,3 +7,4 @@ venue: "ISCA '22"
 citation: "Nicholas Mosier, Hanna Lachnitt, Hamed Nemati, and Caroline Trippel. Axiomatic hardware-software contracts for security. In Proceedings of the 49th Annual International Symposium on Computer Architecture, ISCA ’22, page 72–86, New York, NY, USA, 2022. Association for Computing Machinery. https://doi.org/10.1145/3470496.3527412"
 ---
 [pdf](files/lcms.pdf)
+[video](https://www.youtube.com/watch?v=Kb0XO9OE0SA)
