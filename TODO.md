@@ -1,0 +1,9 @@
+- Add slides + video for Serberus.
+- Add EE282 TA'ing under teaching.
+- Add MAD lecture for EE282.
+- Add PinCPU talk. 
+- Add PinCPU to portfolio.
+- Update the "About Me" page.
+- Fix sitemap.
+- Create a "Software/Artifacts" page; maybe merge in Portfolio. Separate into research and hobby projects.
+- Move "Teaching" later".
